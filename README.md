@@ -1,53 +1,104 @@
-# 高质量免费社工库机器人
-![](https://img.shields.io/badge/Telegram-2CA5E0?style=&logo=telegram&logoColor=white)
+# High-Quality Free OSINT (Data Leak) Telegram Bots
 
-Telegram（电报）社工库机器人，用于检查个人的隐私泄露情况。经过测试，已滤除数据库较老、使用门槛较高、NOT WORKING、结果匹配度低、停止维护、结果质量较低等机器人。
+![img](https://img.shields.io/badge/Telegram-2CA5E0?style=&logo=telegram&logoColor=white)
 
-**以下机器人可同时交叉使用，以获得更多检索次数**
+A collection of **Telegram OSINT (social engineering database) bots** used to check for possible **personal data leaks**.
+ These bots have been tested — those with outdated databases, high entry barriers, low matching accuracy, discontinued services, or poor data quality have been **filtered out**.
+
+**You may use multiple bots simultaneously to increase the total number of searches.**
+
+------
+
+## Project Notes
+
+This list is maintained and tested in spare time. Updates may be irregular, paused, or the repository may be hidden or removed depending on workload and personal circumstances.
+
+The search results are **for reference only**, and rely on the data maintained by the respective bot developers.
+
+⚠️ **These bots are for data security and information retrieval purposes only. Any misuse or illegal operation is strictly prohibited. The author is not responsible for any consequences caused by improper use.**
+
+------
 
 ## No. 1: AISGK
-数据量大且优质，输出结果信息较为全面，查询永久免费。为保护隐私，查询结果会码去90%的内容，如需解锁须通过扣除学分获得。学分可自助充值（USDT支付），更多学分即可解锁其他诸如语言模型之类的功能。首次查询请参考[使用教程](https://telegra.ph/AISGK-05-17)。
 
-已安装注册Telegram的用户（下同）可直接通过[**传送门**](https://t.me/aishegongkubot?start=AISGK_TDW5DW2V)访问，根据机器人提示操作即可。
+Large and high-quality database with comprehensive results.
+ Queries are **free forever**, but for privacy protection, 90% of the content is masked. Unlocking full results requires deducting “credits,” which can be recharged (via USDT).
+ Extra credits can also unlock advanced features such as language models.
+ Refer to the [Usage Guide](https://telegra.ph/AISGK-05-17) for first-time use.
 
-## No. 1 （并列）: liemo （猎魔专用）
-数据库数据达90%覆盖度。可通过每日签到、邀请或充值获得积分。首次查询请参考[使用教程](https://telegra.ph/Bot%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-03-27)。
+Registered Telegram users can directly access it via this [**portal link**](https://t.me/aishegongkubot?start=AISGK_TDW5DW2V) and follow the bot’s instructions.
 
-可直接通过[**传送门**](https://t.me/hh_liemo_bot?start=6320564014)访问，根据机器人提示操作即可。
+------
 
-## No. 2: 🔰黑盒-𝑩𝒍𝒂𝒄𝒌 𝑩𝑶𝑿 -社工库🅥
-数据较全面且不定期更新，免费，但需要积分支持。首次注册赠送10积分，每次查询扣1分（查询失败不扣分），每邀请一人可获赠2积分。首次查询请参考[使用教程](https://telegra.ph/%E9%BB%91%E7%9B%92-%F0%9D%91%A9%F0%9D%92%8D%F0%9D%92%82%F0%9D%92%84%F0%9D%92%8C-%F0%9D%91%A9%F0%9D%91%B6%F0%9D%91%BF---%E7%A4%BE%E5%B7%A5%E5%BA%93%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-08-23)。
+## No. 1 (Tie): liemo (Hunter’s Edition)
 
-可直接通过[**传送门**](https://t.me/BOXsgkbot?start=PTGKWiY)访问，根据机器人提示操作即可。
+Database covers roughly **90%** of available data.
+ Credits can be earned through daily check-ins, invitations, or recharges.
+ Refer to the [Usage Guide](https://telegra.ph/Bot使用教程-03-27) for first-time use.
 
-## No. 3: 派大星机器人
-被誉为叮当猫2代，数据库量大且全面，持续更新资料库以确保数据的准确性，支持多种形式的猎魔查询。可通过每日签到或充值获得积分。
+Direct access via [**portal link**](https://t.me/hh_liemo_bot?start=6320564014), then follow the bot’s prompts.
 
-可直接通过[**传送门**](https://t.me/beiweimingxia_bot/?start=6320564014)访问，根据机器人提示操作即可。
+------
 
-## No. 4: 🔥星盾-社工机器人🔥
-数据不定期更新，查询免费。解锁结果需要消耗钻石或金币（金币仅可解锁部分查询结果，全部查询须使用钻石），钻石可通过USDT、支付宝、微信等多种方式购买。数据库信息相对更为全面，但非付费用户每日仅限查询三次，购买任意数量钻石即可解锁无限次查询。邀请一名新用户奖励5金币，每日奖励上限50金币，邀请的用户首次使用查询后，奖励将自动发放。
+## No. 2: 🔰Black Box (𝑩𝒍𝒂𝒄𝒌 𝑩𝑶𝑿) OSINT Bot🅥
 
-可直接通过[**传送门**](https://t.me/XingDun2Bot?start=dGLpzSL)访问，根据机器人提示操作即可。
+Comprehensive and periodically updated data. Free to use but requires credits.
+ New users receive **10 credits**, each query costs **1 credit** (failed queries are free).
+ Inviting one new user grants **2 credits**.
+ Refer to the [Usage Guide](https://telegra.ph/黑盒-𝑩𝒍𝒂𝒄𝒌-𝑩𝑶𝑿---社工库使用教程-08-23) before first use.
 
-## No. 5: 日月社工库器人
-永不收费，只做公益，技术开源，且数据库不定时更新。新用户默认300秒冷却，邀请一位新用户-10秒，最低每次查询间隔60秒。
+Access via [**portal link**](https://t.me/BOXsgkbot?start=PTGKWiY) and follow the instructions.
 
-可直接通过[**传送门**](https://t.me/RYSGKBOT?start=6320564014)访问，根据机器人提示操作即可。
+------
 
-## No. 6: 暗精灵社工库
-注册即可拥有一定免费额度，额度用尽后可通过开通VIP会员（550 RMB，支付宝支付）的方式终身解锁查询权限。数据库质量及更新时效良好。
+## No. 3: Patrick Star Bot
 
-可直接通过[**传送门**](https://t.me/AJL01_bot?start=xkOLiW4qY1)访问，根据机器人提示操作即可。
+Known as the second-generation “Doraemon” bot.
+ Maintains a **large and constantly updated database** with accurate data.
+ Supports various “hunter” searches.
+ Credits can be gained through daily check-ins or recharges.
 
-## No. 7: Hope机器人
-模糊搜索，全国法人，精准查询等各种数据，数据量大。注册即可获得5积分，一般查询免费，每次解锁通常须消耗5积分（全国法人功能消耗10积分）。可通过分享、每日签到、充值等方式获得积分。
+Access via [**portal link**](https://t.me/beiweimingxia_bot/?start=6320564014) and follow the prompts.
 
-可直接通过[**传送门**](https://t.me/HereisHopeBot?start=6320564014)访问，根据机器人提示操作即可。
+------
 
-## 项目注意事项
-业余时间测试与整理，根据繁忙程度及个人精力，可能不定期更新、可能停止更新，亦可能隐藏、注销该库。
+## No. 4: 🔥Star Shield OSINT Bot🔥
 
-查询结果仅供参考，相关数据依靠探测到的泄露情况由机器人开发者维护。
+Database updated irregularly; queries are free.
+ However, unlocking results requires **diamonds or coins** (some data can be unlocked with coins, full access requires diamonds).
+ Diamonds can be purchased via **USDT, Alipay, or WeChat**.
+ Non-paying users are limited to **3 queries per day**; any diamond purchase grants unlimited searches.
+ Inviting one new user earns **5 coins** (up to 50 daily).
+ Rewards are automatically issued after the invited user performs their first search.
 
-**上述机器人为数据安全与信息检索专用，请遵守法律与道德，误操作后果自负。严禁用于安全检查、检索之外的任何用途！**
+Access via [**portal link**](https://t.me/XingDun2Bot?start=dGLpzSL).
+
+------
+
+## No. 5: Sun & Moon OSINT Bot
+
+Completely **free and open-source**, with irregular database updates.
+ Default cooldown for new users is **300 seconds**; inviting a new user reduces cooldown by **10 seconds**, minimum cooldown **60 seconds** per search.
+
+Access via [**portal link**](https://t.me/RYSGKBOT?start=6320564014).
+
+------
+
+## No. 6: Dark Elf OSINT Bot
+
+Free quota available upon registration.
+ After quota depletion, you can purchase a **lifetime VIP membership (550 RMB via Alipay)** to unlock unlimited access.
+ Database quality and update frequency are solid.
+
+Access via [**portal link**](https://t.me/AJL01_bot?start=xkOLiW4qY1).
+
+------
+
+## No. 7: Hope Bot
+
+Supports **fuzzy search**, **nationwide company registry**, and **precise lookup** with a large database.
+ Registration grants **5 credits**.
+ General searches are free, but unlocking detailed results usually costs **5 credits** (10 for corporate data).
+ Credits can be gained through sharing, check-ins, or recharges.
+
+Access via [**portal link**](https://t.me/HereisHopeBot?start=6320564014).
